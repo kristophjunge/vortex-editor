@@ -34,7 +34,7 @@ Once the plugin is installed successfully the entry "Vortex JavaScript Editor" s
 
 To connect with the browser you have to run the [Vortex JavaScript Connector](https://github.com/kristophjunge/vortex-connector) inside the browser.
 
-I created a [screencast]() that shows the editor in action.
+I created a [screencast](http://youtu.be/x5p7xRkiilo) that shows the editor in action.
 
 
 ## Documentation
